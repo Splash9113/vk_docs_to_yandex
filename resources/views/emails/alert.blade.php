@@ -1,0 +1,1 @@
+Your doc {{ $data['title'] }} was uploaded to Yandex Disk.
